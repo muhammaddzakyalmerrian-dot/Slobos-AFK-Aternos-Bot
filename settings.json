@@ -8,7 +8,7 @@
   "server": {
     "ip": "SultanBarbershop.aternos.me",
     "port": 38382,
-    "version": "",
+    "version": "1.20.1",
     "try-creative": true
   },
   "position": {
