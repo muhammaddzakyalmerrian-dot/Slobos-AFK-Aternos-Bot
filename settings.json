@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SultanBarbershop.aternos.me
-",
+    "ip": "SultanBarbershop.aternos.me",
     "port": 38382,
     "version": "",
     "try-creative": true
